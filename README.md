@@ -1,4 +1,5 @@
 Principal AI Service & UX Designer
+
 Designing trusted, accessible services where human insight meets intelligent systems.
 
 15+ years across insurance, government, finance and consultancy
